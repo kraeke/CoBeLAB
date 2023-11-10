@@ -1,3 +1,5 @@
 # CoBeLAB
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Your Mama is so cool!!!!
+This is the documentation of the Homelab of CoBe. 
+My name is Ben Coenjaerts. Currently working as a Platform Adminsitrator for the government of Luxembourg.
+
+In this documentation I write everything I install, configure, test or delete on my private servers, computers and home network.
