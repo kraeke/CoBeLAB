@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Weekends/Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Weekends/Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Weekends/Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Weekends/Information.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "e9f05c627415af80",
   "lastOpenFiles": [
+    "README.md",
+    "Weekends/Information.md",
+    "Weekends",
     "script/StartObsidian.lnk",
     "script/script.ps1 - Verknüpfung.lnk",
     "script/script.sh",
